@@ -1,4 +1,4 @@
-# McDonald-South-America-Sales-2022
+# McDonald-Sales-2022
 🚀 Data Speaks Louder Than Words! 📊
 
 I recently created a dashboard analyzing McDonald's 2022 sales in South America, and the insights were truly fascinating! 🍔📈

@@ -7,7 +7,7 @@ From regional revenue trends to customer preferences and sales performance, this
 
 🔍 Key Highlights:
 ✅ Sales distribution across South American countries 🌎
-✅ Seasonal trends affecting revenue 📆
+✅ Customer Satisfaction trends📆
 ✅ Insights into top-performing locations 🏆
 ✅ Data visualization for better decision-making 🎯
 
